@@ -13,6 +13,7 @@
           <e p="Mammal.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
           <e p="PowerUpBehavior.cs" t="Include" />
+          <e p="StaminaPowerUp.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2822eceb2fbfc8143992da919b91384e, type: 3}
-  m_Name: Health-1
+  m_Script: {fileID: 11500000, guid: b89104e796b58ad4a8f92f54fb0a8cad, type: 3}
+  m_Name: Stamina5
   m_EditorClassIdentifier: 
   AnyAnimal: {fileID: 11400000, guid: 500897fcbea72cd4393f7a33b204de5c, type: 2}
-  PowerLevel: -1
+  PowerLevel: 5

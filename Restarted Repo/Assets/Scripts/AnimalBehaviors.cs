@@ -8,9 +8,5 @@ public class AnimalBehaviors : MonoBehaviour
 
 	public Animal AnimalInfo;
 
-	void OnTriggerEnter()
-	{
-		AnimalInfo.UpdateHealth();
-		print(AnimalInfo.Health);
-	}
+	
 }

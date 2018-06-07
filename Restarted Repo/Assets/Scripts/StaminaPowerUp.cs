@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
-public class AmmoPowerUp : PowerUpBase {
 
+[CreateAssetMenu]
+public class StaminaPowerUp : PowerUpBase {
+
+	
 }
