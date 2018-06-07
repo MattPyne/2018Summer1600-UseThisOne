@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vcp73\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Restarted Repo.-468166711.00" t="ExcludeRecursive" />
+    <e p="D:\DGM1600\Summer1600Clone\2018Summer1600-UseThisOne\Restarted Repo" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Animal.cs" t="Include" />
+          <e p="AnimalBehaviors.cs" t="Include" />
+          <e p="Mammal.cs" t="Include" />
+          <e p="PowerUpBase.cs" t="Include" />
+          <e p="PowerUpBehavior.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Restarted Repo.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
