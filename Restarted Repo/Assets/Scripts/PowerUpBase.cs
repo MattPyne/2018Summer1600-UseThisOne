@@ -2,15 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PowerUpBase : MonoBehaviour {
+public class PowerUpBase : ScriptableObject
+{
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
+	[Range(-10,10)] public float PowerLevel = 10.0f;
+
+	private void OnEnable()
+	{
+		Debug.Log("PowerUp");
 		
 	}
 }

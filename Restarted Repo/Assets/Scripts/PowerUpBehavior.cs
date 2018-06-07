@@ -2,15 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PowerUpBehavior : MonoBehaviour {
+public class PowerUpBehavior : MonoBehaviour
+{
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+	public PowerUpBase PowerUp;
 	
-	// Update is called once per frame
-	void Update () {
-		
+	private void OnMouseDown()
+	{
+		Debug.Log(PowerUp.PowerLevel);
 	}
 }
