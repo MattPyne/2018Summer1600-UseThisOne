@@ -11,5 +11,6 @@ public class AnimalBehaviors : MonoBehaviour
 	void OnTriggerEnter()
 	{
 		AnimalInfo.UpdateHealth();
+		print(AnimalInfo.Health);
 	}
 }
