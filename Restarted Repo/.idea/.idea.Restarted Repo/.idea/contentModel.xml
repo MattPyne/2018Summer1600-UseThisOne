@@ -9,9 +9,11 @@
           <e p="AmmoPowerUp.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="AnimalBehaviors.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="HealthBarBehavior.cs" t="Include" />
           <e p="HealthPowerUp.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
+          <e p="PlayerTrigger.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
           <e p="PowerUpBehavior.cs" t="Include" />
           <e p="StaminaPowerUp.cs" t="Include" />
