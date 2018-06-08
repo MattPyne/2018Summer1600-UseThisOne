@@ -9,6 +9,7 @@
           <e p="AmmoPowerUp.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="AnimalBehaviors.cs" t="Include" />
+          <e p="HealthBarBehavior.cs" t="Include" />
           <e p="HealthPowerUp.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
