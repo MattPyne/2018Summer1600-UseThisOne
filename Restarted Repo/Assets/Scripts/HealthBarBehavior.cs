@@ -7,7 +7,7 @@ public class HealthBarBehavior : MonoBehaviour
 {
 
 	public float HealthLevel = 1.0f;
-	public Image HealthImage;
+	private Image HealthImage;
 	
 	// Use this for initialization
 	void Start ()
