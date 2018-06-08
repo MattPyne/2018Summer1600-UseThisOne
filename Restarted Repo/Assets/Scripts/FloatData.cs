@@ -6,5 +6,5 @@ using UnityEngine;
 public class FloatData : ScriptableObject
 {
 
-	[Range( 0,1)] public float Value;
+	[Range( -1,1)] public float Value;
 }
