@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7489c02-1a55-4277-af56-c15bd0ae73d5" name="Default" comment="" />
+    <list default="true" id="a7489c02-1a55-4277-af56-c15bd0ae73d5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +37,47 @@
       <file leaf-file-name="HealthBarBehavior.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="285">
+              <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GunBehavior.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GunBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <marker date="1528444154000" expanded="false" signature="6:100" ph="..." />
-                <marker date="1528444154000" expanded="true" signature="148:613" ph="{...}" />
-                <marker date="1528444154000" expanded="true" signature="258:323" ph="{...}" />
-                <marker date="1528444154000" expanded="true" signature="377:611" ph="{...}" />
+                <marker date="1528527618000" expanded="false" signature="6:135" ph="..." />
+                <marker date="1528527618000" expanded="true" signature="177:1557" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="345:705" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="400:456" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="514:570" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="611:702" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="631:660" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="668:698" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="731:1142" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="854:1005" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="893:1001" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="1167:1555" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="1290:1441" ph="{...}" />
+                <marker date="1528527618000" expanded="true" signature="1329:1437" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnemyBehavior.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <marker date="1528523868000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528523868000" expanded="true" signature="122:275" ph="{...}" />
+                <marker date="1528523868000" expanded="true" signature="174:273" ph="{...}" />
+                <marker date="1528523868000" expanded="true" signature="238:270" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,15 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <marker date="1528444210000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1528444210000" expanded="true" signature="139:179" ph="{...}" />
-              </folding>
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -75,14 +110,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimalBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StaminaPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StaminaPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,8 +133,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Animal.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GunBehavior.cs" />
       </list>
     </option>
   </component>
@@ -110,9 +149,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="212" />
-    <option name="y" value="97" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
@@ -173,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528338121356</updated>
-      <workItem from="1528338124798" duration="20563000" />
+      <workItem from="1528338124798" duration="26127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20563000" />
+    <option name="totallyTimeSpent" value="26127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,11 +229,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="170" y="78" width="1400" height="776" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
+      <window_info active="true" anchor="right" id="Errors In Solution" visible="true" weight="0.2966443" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -249,6 +288,25 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GunBehavior.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/GunBehavior.cs" initialLine="22">
+            <startOffsets>
+              <startOffset value="460" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="514" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AnimalBehaviors.cs">
@@ -339,26 +397,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="285">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PostProcessing/Editor/Utils/CurveEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="378" column="44" selection-start-line="378" selection-start-column="44" selection-end-line="378" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
           <folding>
-            <marker date="1528444154000" expanded="false" signature="6:100" ph="..." />
-            <marker date="1528444154000" expanded="true" signature="148:613" ph="{...}" />
-            <marker date="1528444154000" expanded="true" signature="258:323" ph="{...}" />
-            <marker date="1528444154000" expanded="true" signature="377:611" ph="{...}" />
+            <marker date="1528523868000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528523868000" expanded="true" signature="122:275" ph="{...}" />
+            <marker date="1528523868000" expanded="true" signature="174:273" ph="{...}" />
+            <marker date="1528523868000" expanded="true" signature="238:270" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GunBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="360">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <marker date="1528444210000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1528444210000" expanded="true" signature="139:179" ph="{...}" />
+            <marker date="1528527618000" expanded="false" signature="6:135" ph="..." />
+            <marker date="1528527618000" expanded="true" signature="177:1557" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="345:705" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="400:456" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="514:570" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="611:702" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="631:660" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="668:698" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="731:1142" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="854:1005" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="893:1001" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="1167:1555" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="1290:1441" ph="{...}" />
+            <marker date="1528527618000" expanded="true" signature="1329:1437" ph="{...}" />
           </folding>
         </state>
       </provider>
