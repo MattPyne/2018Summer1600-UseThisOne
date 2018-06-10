@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7489c02-1a55-4277-af56-c15bd0ae73d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Restarted Repo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-    </list>
+    <list default="true" id="a7489c02-1a55-4277-af56-c15bd0ae73d5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GunBehavior.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GunBehavior.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GunBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -63,6 +58,18 @@
                 <marker date="1528527618000" expanded="true" signature="1167:1555" ph="{...}" />
                 <marker date="1528527618000" expanded="true" signature="1290:1441" ph="{...}" />
                 <marker date="1528527618000" expanded="true" signature="1329:1437" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnimalBehaviors.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AnimalBehaviors.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1528408572000" expanded="false" signature="6:97" ph="..." />
+                <marker date="1528408572000" expanded="true" signature="143:178" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -212,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528338121356</updated>
-      <workItem from="1528338124798" duration="26127000" />
+      <workItem from="1528338124798" duration="26316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26127000" />
+    <option name="totallyTimeSpent" value="26316000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,17 +316,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AnimalBehaviors.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <marker date="1528408572000" expanded="false" signature="6:97" ph="..." />
-            <marker date="1528408572000" expanded="true" signature="143:178" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Mammal.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -450,6 +446,16 @@
             <marker date="1528527618000" expanded="true" signature="1167:1555" ph="{...}" />
             <marker date="1528527618000" expanded="true" signature="1290:1441" ph="{...}" />
             <marker date="1528527618000" expanded="true" signature="1329:1437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AnimalBehaviors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528408572000" expanded="false" signature="6:97" ph="..." />
+            <marker date="1528408572000" expanded="true" signature="143:178" ph="{...}" />
           </folding>
         </state>
       </provider>
